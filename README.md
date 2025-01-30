@@ -2,6 +2,7 @@
 ## Used Technologies 
 * REACT
 * TAILWINDCSS
+* TMDB API
   
 
 ### Screenshot Of Website 
